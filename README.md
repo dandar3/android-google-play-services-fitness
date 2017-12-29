@@ -7,7 +7,7 @@ https://maven.google.com/com/google/android/gms/play-services-fitness/11.6.2/pla
 - `Android 8.1 (API 27) SDK Platform`
 - [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tree/11.6.2)
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/11.6.2)
-- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-location/tree/11.6.2)
+- [dandar3/android-google-play-services-location](https://github.com/dandar3/android-google-play-services-location/tree/11.6.2)
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/11.6.2)
 
 **References:**
