@@ -8,6 +8,7 @@ https://maven.google.com/com/google/android/gms/play-services-fitness/11.4.0/pla
 - [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tree/11.4.0)
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/11.4.0)
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-location/tree/11.4.0)
+- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/11.4.0)
 
 **References:**
 - https://developers.google.com/fit/android/
